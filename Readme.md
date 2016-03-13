@@ -8,7 +8,7 @@ This app allows you to explore the geographic patterns of American income inequa
 
 ## Features To Add
 
--Add selectors for state level data, other years, other measures [Post-Tax Data](https://github.com/Nathan-Thompson/ACS-PUMS-PUMA-State-Inequality-Measures) 
+-Add selectors for state level data, other years, other measures, [Post-Tax Data](https://github.com/Nathan-Thompson/ACS-PUMS-PUMA-State-Inequality-Measures) 
 
 -Ideally needs to be mapped with a TopoJSON for speed
 
